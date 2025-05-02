@@ -1,3 +1,6 @@
+![Screenshot 2025-05-02 120411](https://github.com/user-attachments/assets/daa75c9e-f977-4514-8bfb-70f40c296050)
+![Screenshot 2025-05-02 120242](https://github.com/user-attachments/assets/cbba5314-4d25-4bab-bd2a-cbf72b5df3fa)
+![Screenshot 2025-05-02 120059](https://github.com/user-attachments/assets/a8db13a1-1330-4f48-a047-88b421ae7d4b)
 # AWS Lambda + S3 Trigger Lab
 
 This lab demonstrates how to build a serverless workflow using AWS Lambda triggered by file uploads to an S3 bucket.
