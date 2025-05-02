@@ -19,7 +19,7 @@ This lab demonstrates how to build a serverless workflow using AWS Lambda trigge
 - CloudWatch Logs
 
 ## 📷 Screenshots
-Include a screenshot of your CloudWatch log if desired.
+Check out the screenshot from inside my lab!
 
 ## 📌 Skills Demonstrated
 - Serverless architecture
