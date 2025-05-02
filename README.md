@@ -25,4 +25,4 @@ Check out the screenshot from inside my lab!
 - Serverless architecture
 - Event-driven development
 - AWS IAM roles and permissions
-- S3 event handling
+- S3 event handling 
